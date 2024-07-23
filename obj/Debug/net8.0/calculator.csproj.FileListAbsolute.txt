@@ -12,3 +12,4 @@ C:\Users\douglasferreira\OneDrive\Csharp\Balta\calculator\obj\Debug\net8.0\refin
 C:\Users\douglasferreira\OneDrive\Csharp\Balta\calculator\obj\Debug\net8.0\calculator.pdb
 C:\Users\douglasferreira\OneDrive\Csharp\Balta\calculator\obj\Debug\net8.0\calculator.genruntimeconfig.cache
 C:\Users\douglasferreira\OneDrive\Csharp\Balta\calculator\obj\Debug\net8.0\ref\calculator.dll
+C:\Users\douglasferreira\OneDrive\Csharp\Balta\calculator\obj\Debug\net8.0\calculator.sourcelink.json
